@@ -1,7 +1,7 @@
 ## Hi! I'm João Victor Albuquerque 👋
 
 - 👨‍💻 Full Stack Web Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently <s>in love with</s> learning NestJS
 - 📫 How to reach me: alb.albqrq@gmail.com
 
 <h3>🧑‍💻 &nbsp;My skills</h3>
