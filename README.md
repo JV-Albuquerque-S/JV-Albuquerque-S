@@ -1,7 +1,7 @@
 ## Hi! I'm João Victor Albuquerque 👋
 
 - 👨‍💻 Full Stack Web Development
-- 🌱 I’m currently <s>in love with</s> learning NestJS
+- 🌱 I’m currently <s>in love with</s> learning NextJS
 - 📫 How to reach me: alb.albqrq@gmail.com
 
 <h3>🧑‍💻 &nbsp;My skills</h3>
@@ -21,7 +21,8 @@
 <br/>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/113/000/original/logo_landscape_(1).png?1643756332" alt="Cypress" height="50" /></a>  
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/113/000/original/logo_landscape_(1).png?1643756332" alt="Cypress" height="50" /></a>
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 
 <h4>Database</h4>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
